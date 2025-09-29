@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/woolf-rep-hw-05-movies/static/css/main.0469ac8d.css",
+    "main.js": "/woolf-rep-hw-05-movies/static/js/main.bf4e9c66.js",
+    "index.html": "/woolf-rep-hw-05-movies/index.html",
+    "main.0469ac8d.css.map": "/woolf-rep-hw-05-movies/static/css/main.0469ac8d.css.map",
+    "main.bf4e9c66.js.map": "/woolf-rep-hw-05-movies/static/js/main.bf4e9c66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0469ac8d.css",
+    "static/js/main.bf4e9c66.js"
+  ]
+}
