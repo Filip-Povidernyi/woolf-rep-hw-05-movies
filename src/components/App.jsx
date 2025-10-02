@@ -13,12 +13,12 @@ export const App = () => {
 
   return (
     <Routes>
-      <Route path="/" element={<SharedLayout />}>
+      <Route path="woolf-rep-hw-05-movies/" element={<SharedLayout />}>
           <Route index element={<Home />} />
-          <Route path="/movies" element={<Movies />} />
-        <Route path="/movies/:movieId" element={<MovieDetails />}>
-          <Route path="/movies/:movieId/cast" element={<Cast />} />
-          <Route path="/movies/:movieId/reviews" element={<Reviews />} />
+          <Route path="woolf-rep-hw-05-movies/movies" element={<Movies />} />
+        <Route path="woolf-rep-hw-05-movies/movies/:movieId" element={<MovieDetails />}>
+          <Route path="woolf-rep-hw-05-movies/movies/:movieId/cast" element={<Cast />} />
+          <Route path="woolf-rep-hw-05-movies/movies/:movieId/reviews" element={<Reviews />} />
         </Route>
           <Route path="*" element={<NotFound />} />
       </Route>
