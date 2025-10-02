@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/woolf-rep-hw-05-movies/static/css/main.02a3360f.css",
-    "main.js": "/woolf-rep-hw-05-movies/static/js/main.65272d93.js",
+    "main.js": "/woolf-rep-hw-05-movies/static/js/main.23b68029.js",
     "static/js/72.553d5f24.chunk.js": "/woolf-rep-hw-05-movies/static/js/72.553d5f24.chunk.js",
     "static/js/928.977ff03c.chunk.js": "/woolf-rep-hw-05-movies/static/js/928.977ff03c.chunk.js",
     "static/js/488.e8e01517.chunk.js": "/woolf-rep-hw-05-movies/static/js/488.e8e01517.chunk.js",
@@ -15,7 +15,7 @@
     "static/media/noImage.png": "/woolf-rep-hw-05-movies/static/media/noImage.766050a83a9c288363de.png",
     "index.html": "/woolf-rep-hw-05-movies/index.html",
     "main.02a3360f.css.map": "/woolf-rep-hw-05-movies/static/css/main.02a3360f.css.map",
-    "main.65272d93.js.map": "/woolf-rep-hw-05-movies/static/js/main.65272d93.js.map",
+    "main.23b68029.js.map": "/woolf-rep-hw-05-movies/static/js/main.23b68029.js.map",
     "72.553d5f24.chunk.js.map": "/woolf-rep-hw-05-movies/static/js/72.553d5f24.chunk.js.map",
     "928.977ff03c.chunk.js.map": "/woolf-rep-hw-05-movies/static/js/928.977ff03c.chunk.js.map",
     "488.e8e01517.chunk.js.map": "/woolf-rep-hw-05-movies/static/js/488.e8e01517.chunk.js.map",
@@ -29,6 +29,6 @@
   },
   "entrypoints": [
     "static/css/main.02a3360f.css",
-    "static/js/main.65272d93.js"
+    "static/js/main.23b68029.js"
   ]
 }
